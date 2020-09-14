@@ -1,0 +1,10 @@
+C:\Users\Batı\source\repos\Resim_Uzerine_Yazi_Yazma\Resim_Uzerine_Yazi_Yazma\bin\Debug\Resim_Uzerine_Yazi_Yazma.exe.config
+C:\Users\Batı\source\repos\Resim_Uzerine_Yazi_Yazma\Resim_Uzerine_Yazi_Yazma\bin\Debug\Resim_Uzerine_Yazi_Yazma.exe
+C:\Users\Batı\source\repos\Resim_Uzerine_Yazi_Yazma\Resim_Uzerine_Yazi_Yazma\bin\Debug\Resim_Uzerine_Yazi_Yazma.pdb
+C:\Users\Batı\source\repos\Resim_Uzerine_Yazi_Yazma\Resim_Uzerine_Yazi_Yazma\obj\Debug\Resim_Uzerine_Yazi_Yazma.csprojAssemblyReference.cache
+C:\Users\Batı\source\repos\Resim_Uzerine_Yazi_Yazma\Resim_Uzerine_Yazi_Yazma\obj\Debug\Resim_Uzerine_Yazi_Yazma.Form1.resources
+C:\Users\Batı\source\repos\Resim_Uzerine_Yazi_Yazma\Resim_Uzerine_Yazi_Yazma\obj\Debug\Resim_Uzerine_Yazi_Yazma.Properties.Resources.resources
+C:\Users\Batı\source\repos\Resim_Uzerine_Yazi_Yazma\Resim_Uzerine_Yazi_Yazma\obj\Debug\Resim_Uzerine_Yazi_Yazma.csproj.GenerateResource.cache
+C:\Users\Batı\source\repos\Resim_Uzerine_Yazi_Yazma\Resim_Uzerine_Yazi_Yazma\obj\Debug\Resim_Uzerine_Yazi_Yazma.csproj.CoreCompileInputs.cache
+C:\Users\Batı\source\repos\Resim_Uzerine_Yazi_Yazma\Resim_Uzerine_Yazi_Yazma\obj\Debug\Resim_Uzerine_Yazi_Yazma.exe
+C:\Users\Batı\source\repos\Resim_Uzerine_Yazi_Yazma\Resim_Uzerine_Yazi_Yazma\obj\Debug\Resim_Uzerine_Yazi_Yazma.pdb
